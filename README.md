@@ -29,3 +29,7 @@
 [game]: https://github.com/gyk001/BoxMan/raw/master/output/BoxMan.exe
 
 [editor]: https://github.com/gyk001/BoxMan/raw/master/output/BoxMainEditer.exe
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gyk001/boxman/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
